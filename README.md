@@ -1,4 +1,4 @@
-The map represents combination of Earthquake data and the Mapbox API map (First section)
+The map represents combination of Earthquake data and the Mapbox API map (First part of the challenge)
 
 The color scale for Earthquake Depth is created via https://gka.github.io/palettes/#/8|s|ffffe0,96ffea,00429d|ffffe0,ff005e,93003a|1|1
 

@@ -1,3 +1,10 @@
+The map represents combination of Earthquake data and the Mapbox API map (First section)
+
+The color scale for Earthquake Depth is created via https://gka.github.io/palettes/#/8|s|ffffe0,96ffea,00429d|ffffe0,ff005e,93003a|1|1
+
+The code for adding legend is taken partially from the following article:
+https://www.igismap.com/legend-in-leafletjs-map-with-topojson/?fbclid=IwAR2LhsLn41PQuV191LRWDm5XDWB8eD6mNAqvSkcdSfsjj4bUGoSwGfN1THc
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background

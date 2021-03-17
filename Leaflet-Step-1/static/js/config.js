@@ -1,2 +1,4 @@
 // API key
-const API_KEY = "YOUR API KEY HERE!";
+const API_KEY = "pk.eyJ1Ijoic2Nob29sZWEiLCJhIjoiY2ttYnNma3I2MDEwMDJ5bXhuYmYzeXJhdyJ9.Ks3omqLhzRrH5bByrWueJQ";
+const Mapbox_API_KEY = "pk.eyJ1Ijoic2Nob29sZWEiLCJhIjoiY2trNjVuOXRuMDBxYzJ2bzdsOGVheDhhYSJ9.7RGGtTdaPtiCmofmLFBa6g";
+const DEFAULT_API_KEY = "pk.eyJ1Ijoic2Nob29sZWEiLCJhIjoiY2ttYnNwbjRkMDN5ZjJvbGpkbmoxZTk4eiJ9.sjYrv1vqKJe89n9nU8ITrg";
